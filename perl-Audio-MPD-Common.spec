@@ -37,8 +37,8 @@ states and information. Therefore, those common classes have been
 outsourced to Audio::MPD::Common.
 
 %description -l pl.UTF-8
-W zależności od korzystania ze środowiska POE osoby chcące manipulować
-przy demonie mpd (Music Player Daemon) używają
+W zależności od korzystania ze środowiska POE osoby chcące
+manipulować przy demonie mpd (Music Player Daemon) używają
 POE::Component::Client::MPD lub Audio::MPD.
 
 Ale nawet jeśli oba te moduły różnią się całkowicie sposobem
