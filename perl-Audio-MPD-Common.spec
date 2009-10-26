@@ -9,13 +9,13 @@
 Summary:	Audio::MPD::Common - a bunch of common helper classes for mpd
 Summary(pl.UTF-8):	Audio::MPD::Common - zwstaw wspólnych klas pomocniczych dla mpd
 Name:		perl-Audio-MPD-Common
-Version:	0.1.4
+Version:	1.092910
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Audio/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	7547349cd8eeef0b00f1173fad750e44
+# Source0-md5:	c733ed3aa17f538f6311317448c727b1
 URL:		http://search.cpan.org/dist/Audio-MPD-Common/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
