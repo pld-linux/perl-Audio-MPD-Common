@@ -20,9 +20,9 @@ URL:		http://search.cpan.org/dist/Audio-MPD-Common/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with autodeps} || %{with tests}
-BuildRequires:	perl-Class-Accessor
 BuildRequires:	perl-Module-Build >= 1:0.3601
 BuildRequires:	perl-MooseX-Has-Sugar
+BuildRequires:	perl-MooseX-Types
 BuildRequires:	perl-Readonly
 %endif
 BuildArch:	noarch
