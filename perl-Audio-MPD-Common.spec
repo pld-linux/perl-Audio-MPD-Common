@@ -14,7 +14,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Audio/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://search.cpan.org/CPAN/authors/id/J/JQ/JQUELIN/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	c173019821862717e603dd884f78074b
 URL:		http://search.cpan.org/dist/Audio-MPD-Common/
 BuildRequires:	perl-devel >= 1:5.8.0
